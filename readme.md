@@ -33,6 +33,12 @@ require('rmd')
 >> √ blogdown     0.10       √ mindr        1.1.10
 >> √ rticles      0.6        √ bookdownplus 1.5.4 
 ```
+### Addin
+
+'rmd' provides an RStudio addin. Click the 'Addins' button on the tool bar and find 'R Markdown Family' under 'RMD'. A table of suggested R markdown packages will pop out. A package in a green row has already been installed. Click a row to install or remove the package.
+
+![](https://raw.githubusercontent.com/pzhaonet/rmd/master/inst/media/rmd-addin.jpg)
+
 ### Other functions
 
 ```r
