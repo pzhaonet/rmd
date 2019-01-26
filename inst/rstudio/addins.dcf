@@ -1,0 +1,4 @@
+Name: R Markdown Family
+Description: Discover and install useful R packages for R markdown family
+Binding: rmdAddin
+Interactive: true

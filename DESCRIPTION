@@ -1,0 +1,48 @@
+Package: rmd
+Version: 0.1.4
+Date: 2019-01-25
+Title: Easily Install and Load the R Markdown Family
+Authors@R: c(
+    person("Peng", "Zhao", role = c("aut", "cre"), email = "pzhao@pzhao.net")
+  )
+Maintainer: Peng Zhao <pzhao@pzhao.net>
+Depends: R (>= 3.1.0)
+Imports: 
+  blogdown, 
+  bookdown, 
+  bookdownplus,
+  curl,
+  citr,
+  cli,
+  crayon,
+  devtools,
+  dplyr,
+  DT (>= 0.1),
+  grDevices,
+  knitr,
+  magrittr,
+  mindr, 
+  miniUI (>= 0.1),
+  purrr,
+  rappdirs (>= 0.3.1),
+  rmarkdown,
+  rstudioapi,
+  rticles,
+  rvest (>= 0.3.1),
+  shiny (>= 0.13.2),
+  shinyjs (>= 0.6),
+  tibble,
+  tinytex,
+  tools,
+  utils,
+  xaringan,
+  xml2 (>= 0.1.2)
+Suggests:
+Description: The 'rmd' package manages multiple R markdown packages. These R markdown packages include currently 'rmarkdown', 'knitr', 'bookdown', 'bookdownplus', 'blogdown', 'rticles',  'tinytex', 'xaringan', 'citr',  and 'mindr'. They can be installed and loaded in a single step with the 'rmd' package. The conflicts between these packages are evaluated as well.
+License: GPL-3 | file LICENSE
+URL: https://github.com/pzhaonet/rmd
+BugReports: https://github.com/pzhaonet/rmd/issues
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+NeedsCompilation: no
+LazyData: true
