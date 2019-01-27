@@ -71,7 +71,7 @@ If you made a useful package for the R markdown family, feel free to make a pull
 | [rmarkdown](https://github.com/rstudio/rmarkdown) | 2019-01-26 | Dynamic Documents for R | :white_check_mark: | [JJ Allaire et al.](https://github.com/rstudio) | [Website](https://rmarkdown.rstudio.com/) |       |
 | [rmd](https://github.com/pzhaonet/rmd) | 2019-01-26 | Easily Installs and Loads the R Markdown Family | :white_check_mark: | [Peng Zhao](https://github.com/pzhaonet) |  | |
 | [rosr](https://github.com/pzhaonet/rosr) | 2019-01-26 | Create academic R markdown projects for open science and reproducible research | :x: | [Peng Zhao](https://github.com/pzhaonet) |  | |
-|  [RStudioConsoleRender](https://github.com/jeffjjohnston/RStudioConsoleRender) | 2019-01-26 | Render an R Markdown document in the global environment | :x: | [Jeff Johnston](https://github.com/jeffjjohnston) | [Blog post](https://jeffjjohnston.github.io/rstudio/rmarkdown/2016/03/01/faster-rendering-in-rstudio.html) | |
+| [RStudioConsoleRender](https://github.com/jeffjjohnston/RStudioConsoleRender) | 2019-01-26 | Render an R Markdown document in the global environment | :x: | [Jeff Johnston](https://github.com/jeffjjohnston) | [Blog post](https://jeffjjohnston.github.io/rstudio/rmarkdown/2016/03/01/faster-rendering-in-rstudio.html) | |
 | [rticles](https://github.com/rstudio/rticles) | 2019-01-26 | LaTeX Journal Article Templates for R Markdown | :white_check_mark: | [JJ Allaire et al.](https://github.com/rstudio) |                                                              |       |
 | [splitChunk](https://github.com/LudvigOlsen/splitChunk) | 2019-01-26 | Split code chunk in R Markdown | :x: | [Ludvig R Olsen](http://ludvigolsen.dk/?lang=en) | | |
 | [strcode](https://github.com/lorenzwalthert/strcode) | 2019-01-26 | Insert code block separators and section titles | :x: | [Lorenz Walthert](http://lorenzwalthert.github.io/) | [Demo GIF](https://raw.githubusercontent.com/lorenzwalthert/strcode/master/demos/strcode_v0.2.0_video_to_gif2_large.gif) | |
@@ -83,14 +83,9 @@ If you made a useful package for the R markdown family, feel free to make a pull
 | [xaringan](https://github.com/yihui/xaringan) | 2019-01-26 | Create HTML5 slides with R Markdown and the JavaScript library   'remark.js' | :white_check_mark: | [Yihui Xie et al.](https://github.com/yihui) | [Slides](https://slides.yihui.name/xaringan)                 |       |
 
 
-
-## Updates
-
-- 2018-12-15. **v0.0.0**. Initialization.
-
 # License
 
 Copyright [Peng Zhao](http://pzhao.org).
 
-Released under the MIT license.
+Released under the GPL-3 license.
 
