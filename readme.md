@@ -54,6 +54,7 @@ If you made a useful package for the R markdown family, feel free to make a pull
 
 | Package | Date Added | Description | On CRAN? | Author | More links | Notes |
 |------|------|------|------|------|------|------|
+| [backyard](https://github.com/ColinFay/backyard) | 2019-01-27 | A Web App for Easier Bookdown Collaboration | :x: | [Colin Fay](https://github.com/ColinFay/) | [Doc](http://colinfay.me/backyard/) | |
 | [beautifyR](https://github.com/mwip/beautifyR) | 2019-01-26 | RStudio addin for formatting Rmarkdown tables | :x: | [Matthias Weigand](https://github.com/mwip/) | [Demo GIF](https://github.com/mwip/beautifyR#beautifyr-in-action) | |
 | [blogdown](https://github.com/rstudio/blogdown) | 2019-01-26 | Create Blogs and Websites with R Markdown | :white_check_mark: | [Yihui Xie et al.](https://github.com/rstudio) | [Doc](https://bookdown.org/yihui/blogdown/) |       |
 | [bookdown](https://github.com/rstudio/bookdown) | 2019-01-26 | Authoring Books and Technical Documents with R Markdown | :white_check_mark: | [Yihui Xie et al.](https://github.com/rstudio) | [Doc](https://bookdown.org/yihui/bookdown/) |       |
