@@ -21,6 +21,7 @@ update_addins_list <- function(force = FALSE) {
 }
 
 # Download a new version of the addins list and store it in a local file
+#' @importFrom  rmarkdown pandoc_convert
 update_addins_file <- function() {
   datapath <- get_files_path()
   dir.create(datapath, showWarnings = FALSE, recursive = TRUE)
