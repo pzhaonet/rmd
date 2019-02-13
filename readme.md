@@ -1,6 +1,10 @@
 # rmd: Easily Install and Load the R Markdown Family
 
- ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/rmd)
+[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/rmd)](https://cran.r-project.org/package=rmd)
+[![CRAN Downloads](http://cranlogs.r-pkg.org/badges/grand-total/rmd)](http://www.r-pkg.org/pkg/rmd)
+[![GitHub forks](https://img.shields.io/github/forks/pzhaonet/rmd.svg)](https://github.com/pzhaonet/rmd/network)
+[![GitHub stars](https://img.shields.io/github/stars/pzhaonet/rmd.svg)](https://github.com/pzhaonet/rmd/stargazers)
 
 ## Introduction
 
