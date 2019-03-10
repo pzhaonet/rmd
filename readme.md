@@ -22,7 +22,7 @@ When you install 'rmd', the R Markdown family members are installed in one singl
 # stable version:
 install.packages("rmd")
 # or development version:
-remote::install_github("pzhaonet/rmd")
+remotes::install_github("pzhaonet/rmd")
 ```
 
 ### Load 
