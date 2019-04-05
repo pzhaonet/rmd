@@ -91,6 +91,7 @@ If you made a useful package for the R markdown family, feel free to make a pull
 | [wordcountaddin](https://github.com/benmarwick/wordcountaddin) | 2019-01-26 | Count non-code words in Rmd documents |  :x: | [Ben Marwick](https://github.com/benmarwick) |[Screenshot](https://github.com/benmarwick/wordcountaddin/raw/master/inst/wordcountaddin.gif) | |
 | [WrapRmd](https://github.com/tjmahr/WrapRmd) | 2019-01-26 | Wrap selected R Markdown text but don't insert lines breaks into inline R code | :x: | [TJ Mahr](http://tjmahr.com/) | | |
 | [xaringan](https://github.com/yihui/xaringan) | 2019-01-26 | Create HTML5 slides with R Markdown and the JavaScript library   'remark.js' | :white_check_mark: | [Yihui Xie et al.](https://github.com/yihui) | [Slides](https://slides.yihui.name/xaringan)                 |       |
+| [remedy](https://github.com/ThinkR-open/remedy)| 2018-12-21 |RStudio Addins to Simplify Markdown Writing| :white_check_mark: |[ThinkR-open](https://rtask.thinkr.fr/) |  |
 
 
 # License
