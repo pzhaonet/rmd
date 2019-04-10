@@ -76,12 +76,13 @@ If you made a useful package for the R markdown family, feel free to make a pull
 | [pagedown](https://github.com/rstudio/pagedown) | 2019-01-26 | Paginate the HTML Output of R Markdown with CSS for Print | :white_check_mark: | [Yihui Xie et al.](https://github.com/rstudio)       | [Doc](https://pagedown.rbind.io/) |       |
 | [papaja](https://github.com/crsh/papaja) | 2019-03-06 | Provides document formats and helper functions to produce complete APA manscripts from RMarkdown-files  | :x: | [Frederik Aust](https://github.com/crsh)       | [Doc](https://crsh.github.io/papaja_man/) |       |
 | [regexplain](https://github.com/gadenbuie/regexplain) | 2019-01-26 | Interactive regular expression utility belt | :x: | [Garrick Aden-Buie](https://www.garrickadenbuie.com) | [Demo gifs](https://github.com/gadenbuie/regexplain/#overview) | |
-| [remedy](https://github.com/ThinkR-open/remedy) | 2019-01-26 | RStudio Addins to Simplify Markdown Writing | :x: | [ThinkR](https://thinkr.fr/) | [How it works](https://github.com/ThinkR-open/remedy/blob/master/README.md) | |
+| [remedy](https://github.com/ThinkR-open/remedy) | 2019-01-26 | RStudio Addins to Simplify Markdown Writing | :white_check_mark: | [ThinkR](https://thinkr.fr/) | [How it works](https://github.com/ThinkR-open/remedy/blob/master/README.md) | |
 | [rmarkdown](https://github.com/rstudio/rmarkdown) | 2019-01-26 | Dynamic Documents for R | :white_check_mark: | [JJ Allaire et al.](https://github.com/rstudio) | [Website](https://rmarkdown.rstudio.com/) |       |
 | [rmd](https://github.com/pzhaonet/rmd) | 2019-01-26 | Easily Installs and Loads the R Markdown Family | :white_check_mark: | [Peng Zhao](https://github.com/pzhaonet) |  | |
 | [rosr](https://github.com/pzhaonet/rosr) | 2019-01-26 | Create academic R markdown projects for open science and reproducible research | :x: | [Peng Zhao](https://github.com/pzhaonet) |  | |
 | [RStudioConsoleRender](https://github.com/jeffjjohnston/RStudioConsoleRender) | 2019-01-26 | Render an R Markdown document in the global environment | :x: | [Jeff Johnston](https://github.com/jeffjjohnston) | [Blog post](https://jeffjjohnston.github.io/rstudio/rmarkdown/2016/03/01/faster-rendering-in-rstudio.html) | |
 | [rticles](https://github.com/rstudio/rticles) | 2019-01-26 | LaTeX Journal Article Templates for R Markdown | :white_check_mark: | [JJ Allaire et al.](https://github.com/rstudio) |                                                              |       |
+| [stargazer](https://github.com/cran/stargazer) | 2019-04-10 | Well-Formatted Regression and Summary Statistics Tables      | :white_check_mark: | Marek Hlavac | | |
 | [splitChunk](https://github.com/LudvigOlsen/splitChunk) | 2019-01-26 | Split code chunk in R Markdown | :x: | [Ludvig R Olsen](http://ludvigolsen.dk/?lang=en) | | |
 | [strcode](https://github.com/lorenzwalthert/strcode) | 2019-01-26 | Insert code block separators and section titles | :x: | [Lorenz Walthert](http://lorenzwalthert.github.io/) | [Demo GIF](https://raw.githubusercontent.com/lorenzwalthert/strcode/master/demos/strcode_v0.2.0_video_to_gif2_large.gif) | |
 | [thesisdown](https://github.com/ismayc/thesisdown) | 2019-03-06 | An updated R Markdown thesis template using the bookdown package | :x: | [Chester Ismay](https://github.com/ismayc) | [Doc](https://thesisdown.netlify.com/) |       |
@@ -91,7 +92,6 @@ If you made a useful package for the R markdown family, feel free to make a pull
 | [wordcountaddin](https://github.com/benmarwick/wordcountaddin) | 2019-01-26 | Count non-code words in Rmd documents |  :x: | [Ben Marwick](https://github.com/benmarwick) |[Screenshot](https://github.com/benmarwick/wordcountaddin/raw/master/inst/wordcountaddin.gif) | |
 | [WrapRmd](https://github.com/tjmahr/WrapRmd) | 2019-01-26 | Wrap selected R Markdown text but don't insert lines breaks into inline R code | :x: | [TJ Mahr](http://tjmahr.com/) | | |
 | [xaringan](https://github.com/yihui/xaringan) | 2019-01-26 | Create HTML5 slides with R Markdown and the JavaScript library   'remark.js' | :white_check_mark: | [Yihui Xie et al.](https://github.com/yihui) | [Slides](https://slides.yihui.name/xaringan)                 |       |
-| [remedy](https://github.com/ThinkR-open/remedy)| 2018-12-21 |RStudio Addins to Simplify Markdown Writing| :white_check_mark: |[ThinkR-open](https://rtask.thinkr.fr/) |  |
 
 
 # License
