@@ -1,6 +1,6 @@
 Package: rmd
-Version: 0.1.4
-Date: 2019-01-25
+Version: 0.1.6
+Date: 2020-06-21
 Title: Easily Install and Load the R Markdown Family
 Authors@R: c(
     person("Peng", "Zhao", role = c("aut", "cre"), email = "pzhao@pzhao.net")
@@ -44,6 +44,6 @@ License: GPL-3 | file LICENSE
 URL: https://github.com/pzhaonet/rmd
 BugReports: https://github.com/pzhaonet/rmd/issues
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.0
 NeedsCompilation: no
 LazyData: true

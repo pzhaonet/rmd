@@ -27,7 +27,8 @@ update_addins_file <- function() {
   dir.create(datapath, showWarnings = FALSE, recursive = TRUE)
   mdfile <- get_md_file()
   htmlfile <- get_html_file()
-  url <- "https://raw.githubusercontent.com/pzhaonet/rmd/master/readme.md"
+  url <- "https://pzhaonet.github.io/rmd/static/readme.md"
+  # "https://raw.githubusercontent.com/pzhaonet/rmd/master/readme.md"
   writeLines("% addinslist", mdfile)
   curl::curl_download(url, destfile = mdfile, mode = "ab")
   rmarkdown::pandoc_convert(mdfile, to = "html", output = htmlfile,

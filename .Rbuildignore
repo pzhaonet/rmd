@@ -7,3 +7,5 @@ showcase/
 vignettes/
 readme*.*
 inst2/
+.github/
+static/
